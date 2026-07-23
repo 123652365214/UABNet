@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(\"d:\\\\all_program\\\\31_wcm\\\\sarnet_doc.txt\":*)",
+      "Bash(\"d:\\\\all_program\\\\31_wcm\\\\modules_summary.txt\":*)",
+      "Bash(pip install python-docx -q)",
+      "Bash(python3 -c \":*)"
+    ]
+  }
+}
